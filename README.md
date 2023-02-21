@@ -13,3 +13,5 @@
 #### 8. 🍾 Especialista em Data Science e Analytics - USP-SP.
 #### 9.🍾 Especialista Inteligência Artificial e Aprendizado de Máquina - PUC-MG.
 #### 10. 👨🏻‍🎓 Doutorando em Sistemas de Informação e Gestão do Conhecimento - FUMEC-BH.
+
+[![Youtube](http://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logocolor=white)](https://www.youtube.com/channel/UCszaoAn0FrdRpkqtq7BvfeQ)
