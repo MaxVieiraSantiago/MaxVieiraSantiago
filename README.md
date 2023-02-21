@@ -14,4 +14,11 @@
 #### 9.🍾 Especialista Inteligência Artificial e Aprendizado de Máquina - PUC-MG.
 #### 10. 👨🏻‍🎓 Doutorando em Sistemas de Informação e Gestão do Conhecimento - FUMEC-BH.
 
+# Me siga pelo mundo 🌎
+
 [![Youtube](http://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logocolor=white)](https://www.youtube.com/channel/UCszaoAn0FrdRpkqtq7BvfeQ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maxvieirasantiago/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxvsantiago/)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=maxvieirasantiago&show_icons=true&theme=radical)
+
