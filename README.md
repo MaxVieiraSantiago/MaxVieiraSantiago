@@ -23,5 +23,5 @@
 [![Lattes](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white)](http://lattes.cnpq.br/0326405207038569)
 [![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/2LVriZgttCSi4fzsjp8Ujw?si=6fB20BGIQ-G_VR7C3TS9VA)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=maxvieirasantiago&show_icons=true&theme=radical)
+
 
