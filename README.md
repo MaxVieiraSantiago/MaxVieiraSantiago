@@ -16,6 +16,7 @@
 
 # Me siga pelo mundo 🌎
 
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1Q_0Tv1l-Dym1jOu9nNsQqPRI8IYrM4Yw?usp=sharing)
 [![Youtube](http://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logocolor=white)](https://www.youtube.com/channel/UCszaoAn0FrdRpkqtq7BvfeQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maxvieirasantiago/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxvsantiago/)
