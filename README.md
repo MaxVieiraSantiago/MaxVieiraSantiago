@@ -9,9 +9,9 @@
 #### 4. 👨‍🎓   Graduado em Sistemas de Informação - UNA-MG.
 #### 5. 🍾 Especialista em Análise de Sistemas - UNI-BH.
 #### 6. 🍾 Especialista em Análise de Negócios - IETEC-BH.
-#### 7. 🎓 Mestre em Computação - PUC-MG.
+#### 7. 🍾 Especialista Inteligência Artificial e Aprendizado de Máquina - PUC-MG.
 #### 8. 🍾 Especialista em Data Science e Analytics - USP-SP.
-#### 9.🍾 Especialista Inteligência Artificial e Aprendizado de Máquina - PUC-MG.
+#### 9. 🎓 Mestre em Computação - PUC-MG.
 #### 10. 👨🏻‍🎓 Doutorando em Sistemas de Informação e Gestão do Conhecimento - FUMEC-BH.
 
 # Me siga pelo mundo 🌎
