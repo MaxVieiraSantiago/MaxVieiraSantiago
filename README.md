@@ -13,8 +13,8 @@
 #### 8. 🍾 Especialista em Data Science e Analytics - USP-SP.
 #### 9. 🎓 Mestre em Computação - PUC-MG.
 #### 10. 👨🏻‍🎓 Doutorando em Sistemas de Informação e Gestão do Conhecimento - FUMEC-BH.
-#### 11. 👨Professor UFMG - DCC/ICEX - Departamento de Ciência da Computação.
-#### 12. ![image](https://github.com/MaxVieiraSantiago/MaxVieiraSantiago/assets/111646931/a79a6391-2d8f-4c9e-96d4-4b7353205c50) Professor NEWTON PAIVA - Departamento de Ciência da Computação e Sistemas de Informação.
+#### 11. 👨 Professor UFMG - DCC/ICEX - Departamento de Ciência da Computação.
+#### 12. 👨 Professor NEWTON PAIVA - Departamento de Ciência da Computação e Sistemas de Informação.
 
 # Me siga pelo mundo 🌎
 
